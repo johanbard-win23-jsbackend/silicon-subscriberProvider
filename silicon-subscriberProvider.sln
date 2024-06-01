@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "silicon-subscriberProvider", "silicon-subscriberProvider\silicon-subscriberProvider.csproj", "{78EDC98F-6800-409E-BAFA-E874A0A9638B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "silicon-subscriberProvider.Infrastructure", "silicon-subscriberProvider.Infrastructure\silicon-subscriberProvider.Infrastructure.csproj", "{EA3D6238-3F00-4316-BAEA-501652C7384A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{78EDC98F-6800-409E-BAFA-E874A0A9638B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78EDC98F-6800-409E-BAFA-E874A0A9638B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78EDC98F-6800-409E-BAFA-E874A0A9638B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA3D6238-3F00-4316-BAEA-501652C7384A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA3D6238-3F00-4316-BAEA-501652C7384A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA3D6238-3F00-4316-BAEA-501652C7384A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA3D6238-3F00-4316-BAEA-501652C7384A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
